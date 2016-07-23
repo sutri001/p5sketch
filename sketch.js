@@ -22,4 +22,6 @@ function draw() {
   rect(i,j,80,80)
   i=i-8
   j=j+10
+  
+  text("testing",50,50)
 }
